@@ -1,0 +1,22 @@
+[project]
+name = "PyTorch"
+version = "2021.4.0"
+description = "PyTorch Project"
+readme = "README.md"
+requires-python = ">=3.9"
+keywords = [ "PyTorch",]
+[[project.authors]]
+email = "andysingal@gmail.com"
+
+[[project.authors]]
+name = "Ankush k.Singal"
+
+[project.license]
+file = "LICENSE.txt"
+
+[tool.pytest.ini_options]
+filterwarnings = [
+    'ignore:.*itsdangerous.json.* is deprecated .*:DeprecationWarning',
+]
+
+[tool.tox]
