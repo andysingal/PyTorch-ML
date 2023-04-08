@@ -17,3 +17,5 @@ If the above sounds complex, think of like this, almost everything in a PyTorch 
 - nn.Parameter contains the smaller parameters like weights and biases (put these together to make nn.Module(s))
 - forward() tells the larger blocks how to make calculations on inputs (tensors full of data) within nn.Module(s)
 - torch.optim contains optimization methods on how to improve the parameters within nn.Parameter to better represent input data
+
+![Image](https://github.com/andysingal/PyTorch-ML/blob/main/Images/Screen%20Shot%202023-04-08%20at%206.59.59%20PM.png)
