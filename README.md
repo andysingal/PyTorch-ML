@@ -21,4 +21,5 @@ If the above sounds complex, think of like this, almost everything in a PyTorch 
 ![Image](https://github.com/andysingal/PyTorch-ML/blob/main/Images/Screen%20Shot%202023-04-08%20at%206.59.59%20PM.png)
 
 Books:
-- Deep Learning with PyTorch Thomas Viehmann, Eli Stevens, Luca Pietro Giovanni Antiga https://learning.oreilly.com/library/view/deep-learning-with/9781617295263/Text/10.xhtml#sigil_toc_id_193 
+- Deep Learning with PyTorch Thomas Viehmann, Eli Stevens, Luca Pietro Giovanni Antiga https://learning.oreilly.com/library/view/deep-learning-with/9781617295263/Text/10.xhtml#sigil_toc_id_193
+- Inside Deep Learning Edward Raff https://learning.oreilly.com/library/view/inside-deep-learning/9781617298639/ 
