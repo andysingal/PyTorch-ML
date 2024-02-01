@@ -22,4 +22,7 @@ If the above sounds complex, think of like this, almost everything in a PyTorch 
 
 Books:
 - Deep Learning with PyTorch Thomas Viehmann, Eli Stevens, Luca Pietro Giovanni Antiga https://learning.oreilly.com/library/view/deep-learning-with/9781617295263/Text/10.xhtml#sigil_toc_id_193
-- Inside Deep Learning Edward Raff https://learning.oreilly.com/library/view/inside-deep-learning/9781617298639/ 
+- Inside Deep Learning Edward Raff https://learning.oreilly.com/library/view/inside-deep-learning/9781617298639/
+- Awesome-Deep-Camera-Calibration https://github.com/KangLiao929/Awesome-Deep-Camera-Calibration
+- The ultimate guide on installing PyTorch with CUDA https://medium.com/decodingml/the-step-by-step-guide-on-how-to-install-pytorch-with-cuda-support-in-all-possible-ways-147b3f34085c
+- 
