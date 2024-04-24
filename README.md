@@ -25,4 +25,5 @@ Books:
 - Inside Deep Learning Edward Raff https://learning.oreilly.com/library/view/inside-deep-learning/9781617298639/
 - Awesome-Deep-Camera-Calibration https://github.com/KangLiao929/Awesome-Deep-Camera-Calibration
 - The ultimate guide on installing PyTorch with CUDA https://medium.com/decodingml/the-step-by-step-guide-on-how-to-install-pytorch-with-cuda-support-in-all-possible-ways-147b3f34085c
-- 
+
+[huggingface-pytorch](https://github.com/huggingface/transformers/tree/main/examples/pytorch)
